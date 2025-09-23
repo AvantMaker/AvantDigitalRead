@@ -1,0 +1,41 @@
+########################################
+# AvantDigitalRead Library Keywords File
+########################################
+
+# Classes (KEYWORD1)
+AvantDigitalRead	KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+addPin	KEYWORD2
+removePin	KEYWORD2
+isInitialized	KEYWORD2
+getPinMode	KEYWORD2
+readPin	KEYWORD2
+setDebounceTime	KEYWORD2
+getDebounceTime	KEYWORD2
+onChange	KEYWORD2
+onRising	KEYWORD2
+onFalling	KEYWORD2
+onSinglePress	KEYWORD2
+setClickParameters	KEYWORD2
+onDoublePress	KEYWORD2
+onLongPress	KEYWORD2
+enablePinEvents	KEYWORD2
+disablePinEvents	KEYWORD2
+enableAllEvents	KEYWORD2
+disableAllEvents	KEYWORD2
+update	KEYWORD2
+
+# Constants (LITERAL1)
+PIN_LOW	LITERAL1
+PIN_HIGH	LITERAL1
+PIN_UNINITIALIZED	LITERAL1
+PIN_ERROR	LITERAL1
+
+# Event Types (LITERAL2)
+EVENT_CHANGE	LITERAL2
+EVENT_RISING	LITERAL2
+EVENT_FALLING	LITERAL2
+EVENT_SINGLE_PRESS	LITERAL2
+EVENT_DOUBLE_PRESS	LITERAL2
+EVENT_LONG_PRESS	LITERAL2
